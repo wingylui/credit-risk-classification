@@ -32,7 +32,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ## Summary
 
-To conclude, the model trained by resampled training dataset was recommended because the high-risk loan is more important to predict compared to healthy loan. Based on the precision and f1 scores, the performance of model trained by resampled training data is better than the model trained by original dataset. As the result, I will recommend the second model.
+To conclude, based on the above results, both models perform with high accuracy on predicting healthy loan while the model trained with resampled data predicts high-risk loan better. Since predicting high-risk loan is much more important for credit risk evaluation, I will recommend the model trained with resampled data.
 
 
 ---
